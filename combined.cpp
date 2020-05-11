@@ -5,7 +5,7 @@
 #include<string.h>
 #include<conio.h>
 using namespace std;
-
+//Tourism class//
 class tourism
 {
 public:
@@ -311,9 +311,9 @@ public:
        cout<<" ";
    }
 
+//Housing class//
 
-
-class housing                 //in Kota city//
+class housing                 
 {
  protected:
    char name[30];
@@ -556,7 +556,7 @@ class carent:public housing
 		}
 
 
-
+//Job seeking class//
 class resume
 {
  public:
@@ -686,7 +686,7 @@ void display()
 };
 
 
-
+//Education//
 class student
 {
     protected:
@@ -1066,7 +1066,7 @@ cout<<"About 175 hrs. Including classroom interaction and tests."<<endl;
 
 };
 
-
+//Smart city class//
 class SmartCity
 {
   public:
@@ -1381,6 +1381,7 @@ void JobSeeker_module()
          }
     }
 };
+//Main function//
 int main()
 {
     SmartCity S;

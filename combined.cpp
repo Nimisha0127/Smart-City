@@ -1,3 +1,4 @@
+//Smart city//
 #include<iostream>
 #include<stdlib.h>
 #include<iostream>
@@ -16,8 +17,8 @@ void tourism::intro()
 {
     cout<<"With history, culture, cuisine, nature and heritage, Kota has a lot on offer for your perusal."
     " The desert city cites an attractive historical beginning and has seen a lot of valour, majesty,"
-    " courtliness and grandeur, etching India’s glorious monarchy. Proud Rajput kings once ruled over western"
-    " India adding to this country’s glory and richness. Kota is within the Hadoti region located in the south"
+    " courtliness and grandeur, etching Indiaâ€™s glorious monarchy. Proud Rajput kings once ruled over western"
+    " India adding to this countryâ€™s glory and richness. Kota is within the Hadoti region located in the south"
     " eastern part of Rajasthan. The River Chambal cools the town as it flows through it. "<<endl<<endl;
 
 }
@@ -815,7 +816,7 @@ class courses:public institutes
             cout<<"Chapter Practice Problems (CPP): On each chapter Students will be given Chapter Practice Problems which they have to attempt and submit before the beginning of the next chapter. These solutions will be checked by the faculty and will be returned to the Students with remarks and suggestions. Thus helping every Student to have a very strong command over fundamental concept knowledge very crucial for getting Top ranks."<<endl;
             cout<<"Class Learning Improvement Program (CLIP): Icing on the cake of every class will be done through Class Learning Improvement Program for those who have completed all assignments to further help them get a higher Rank in Competitive Exams."<<endl;
             cout<<"Success Potential Index (SPI): We are the only institute in India having the capability to predict Success Potential Index (SPI) of a student. We constantly encourage our students to emulate their Success Potential Index (SPI)."<<endl;
-            cout<<"Students also gain important exam practice through quizzes, phase tests, & mock tests (conducted in a simulated environment giving the students a ‘feel’ of the real exam) that can help them improve their examination temperament a necessary element for success in any competitive exam"<<endl;
+            cout<<"Students also gain important exam practice through quizzes, phase tests, & mock tests (conducted in a simulated environment giving the students a â€˜feelâ€™ of the real exam) that can help them improve their examination temperament a necessary element for success in any competitive exam"<<endl;
             cout<<"Regular feedback & Test Analysis Sessions."<<endl;
             cout<<"Dedicated academic operations team provides feedback at any point of time apart from scheduled parent teacher meetings."<<endl;
             cout<<"DURATION :"<<endl;
@@ -833,7 +834,7 @@ class courses:public institutes
         cout<<"Chapter Practice Problems (CPP): On each chapter Students will be given Chapter Practice Problems which they have to attempt and submit before the beginning of the next chapter. These solutions will be checked by the faculty and will be returned to the Students with remarks and suggestions. Thus helping every Student to have a very strong command over fundamental concept knowledge very crucial for getting Top ranks."<<endl;
         cout<<"Class Learning Improvement Program (CLIP): Icing on the cake of every class will be done through Class Learning Improvement Program for those who have completed all assignments to further help them get a higher Rank in Competitive Exams."<<endl;
         cout<<"Success Potential Index (SPI): We are the only institute in India having the capability to predict Success Potential Index (SPI) of a student. We constantly encourage our students to emulate their Success Potential Index (SPI)."<<endl;
-        cout<<"Students also gain important exam practice through quizzes, phase tests, & mock tests (conducted in a simulated environment giving the students a ‘feel’ of the real exam) that can help them improve their examination temperament a necessary element for success in any competitive exam"<<endl;
+        cout<<"Students also gain important exam practice through quizzes, phase tests, & mock tests (conducted in a simulated environment giving the students a â€˜feelâ€™ of the real exam) that can help them improve their examination temperament a necessary element for success in any competitive exam"<<endl;
         cout<<"Regular feedback & Test Analysis Sessions."<<endl;
         cout<<"Dedicated academic operations team provides feedback at any point of time apart from scheduled parent teacher meetings."<<endl;
         cout<<"DURATION :"<<endl;
@@ -851,7 +852,7 @@ cout<<"Common Phase Tests across the country."<<endl;
 cout<<"Chapter Practice Problems (CPP): On each chapter Students will be given Chapter Practice Problems which they have to attempt and submit before the beginning of the next chapter. These solutions will be checked by the faculty and will be returned to the Students with remarks and suggestions. Thus helping every Student to have a very strong command over fundamental concept knowledge very crucial for getting Top ranks."<<endl;
 cout<<"Class Learning Improvement Program (CLIP): Icing on the cake of every class will be done through Class Learning Improvement Program for those who have completed all assignments to further help them get a higher Rank in Competitive Exams."<<endl;
 cout<<"Success Potential Index (SPI): We are the only institute in India having the capability to predict Success Potential Index (SPI) of a student. We constantly encourage our students to emulate their Success Potential Index (SPI)."<<endl;
-cout<<"Students also gain important exam practice through quizzes, phase tests, & mock tests (conducted in a simulated environment giving the students a ‘feel’ of the real exam) that can help them improve their examination temperament a necessary element for success in any competitive exam"<<endl;
+cout<<"Students also gain important exam practice through quizzes, phase tests, & mock tests (conducted in a simulated environment giving the students a â€˜feelâ€™ of the real exam) that can help them improve their examination temperament a necessary element for success in any competitive exam"<<endl;
 cout<<"Regular feedback & Test Analysis Sessions."<<endl;
 cout<<"Dedicated academic operations team provides feedback at any point of time apart from scheduled parent teacher meetings."<<endl;
 cout<<"DURATION :"<<endl;
@@ -869,7 +870,7 @@ cout<<"Common Phase Tests across the country."<<endl;
 cout<<"Chapter Practice Problems (CPP): On each chapter Students will be given Chapter Practice Problems which they have to attempt and submit before the beginning of the next chapter. These solutions will be checked by the faculty and will be returned to the Students with remarks and suggestions. Thus helping every Student to have a very strong command over fundamental concept knowledge very crucial for getting Top ranks."<<endl;
 cout<<"Class Learning Improvement Program (CLIP): Icing on the cake of every class will be done through Class Learning Improvement Program for those who have completed all assignments to further help them get a higher Rank in Competitive Exams."<<endl;
 cout<<"Success Potential Index (SPI): We are the only institute in India having the capability to predict Success Potential Index (SPI) of a student. We constantly encourage our students to emulate their Success Potential Index (SPI)."<<endl;
-cout<<"Students also gain important exam practice through quizzes, phase tests, & mock tests (conducted in a simulated environment giving the students a ‘feel’ of the real exam) that can help them improve their examination temperament a necessary element for success in any competitive exam"<<endl;
+cout<<"Students also gain important exam practice through quizzes, phase tests, & mock tests (conducted in a simulated environment giving the students a â€˜feelâ€™ of the real exam) that can help them improve their examination temperament a necessary element for success in any competitive exam"<<endl;
 cout<<"Regular feedback & Test Analysis Sessions."<<endl;
 cout<<"Dedicated academic operations team provides feedback at any point of time apart from scheduled parent teacher meetings."<<endl;
 cout<<"DURATION :"<<endl;
@@ -887,7 +888,7 @@ cout<<"Common Phase Tests across the country."<<endl;
 cout<<"Chapter Practice Problems (CPP): On each chapter Students will be given Chapter Practice Problems which they have to attempt and submit before the beginning of the next chapter. These solutions will be checked by the faculty and will be returned to the Students with remarks and suggestions. Thus helping every Student to have a very strong command over fundamental concept knowledge very crucial for getting Top ranks."<<endl;
 cout<<"Class Learning Improvement Program (CLIP): Icing on the cake of every class will be done through Class Learning Improvement Program for those who have completed all assignments to further help them get a higher Rank in Competitive Exams."<<endl;
 cout<<"Success Potential Index (SPI): We are the only institute in India having the capability to predict Success Potential Index (SPI) of a student. We constantly encourage our students to emulate their Success Potential Index (SPI)."<<endl;
-cout<<"Students also gain important exam practice through quizzes, phase tests, & mock tests (conducted in a simulated environment giving the students a ‘feel’ of the real exam) that can help them improve their examination temperament a necessary element for success in any competitive exam"<<endl;
+cout<<"Students also gain important exam practice through quizzes, phase tests, & mock tests (conducted in a simulated environment giving the students a â€˜feelâ€™ of the real exam) that can help them improve their examination temperament a necessary element for success in any competitive exam"<<endl;
 cout<<"Regular feedback & Test Analysis Sessions."<<endl;
 cout<<"Dedicated academic operations team provides feedback at any point of time apart from scheduled parent teacher meetings."<<endl;
 cout<<"DURATION :"<<endl;
@@ -905,7 +906,7 @@ cout<<"Common Phase Tests across the country."<<endl;
 cout<<"Chapter Practice Problems (CPP): On each chapter Students will be given Chapter Practice Problems which they have to attempt and submit before the beginning of the next chapter. These solutions will be checked by the faculty and will be returned to the Students with remarks and suggestions. Thus helping every Student to have a very strong command over fundamental concept knowledge very crucial for getting Top ranks."<<endl;
 cout<<"Class Learning Improvement Program (CLIP): Icing on the cake of every class will be done through Class Learning Improvement Program for those who have completed all assignments to further help them get a higher Rank in Competitive Exams."<<endl;
 cout<<"Success Potential Index (SPI): We are the only institute in India having the capability to predict Success Potential Index (SPI) of a student. We constantly encourage our students to emulate their Success Potential Index (SPI)."<<endl;
-cout<<"Students also gain important exam practice through quizzes, phase tests, & mock tests (conducted in a simulated environment giving the students a ‘feel’ of the real exam) that can help them improve their examination temperament a necessary element for success in any competitive exam"<<endl;
+cout<<"Students also gain important exam practice through quizzes, phase tests, & mock tests (conducted in a simulated environment giving the students a â€˜feelâ€™ of the real exam) that can help them improve their examination temperament a necessary element for success in any competitive exam"<<endl;
 cout<<"Regular feedback & Test Analysis Sessions."<<endl;
 cout<<"Dedicated academic operations team provides feedback at any point of time apart from scheduled parent teacher meetings."<<endl;
 cout<<"DURATION :"<<endl;
@@ -923,7 +924,7 @@ cout<<"Common Phase Tests across the country."<<endl;
 cout<<"Chapter Practice Problems (CPP): On each chapter Students will be given Chapter Practice Problems which they have to attempt and submit before the beginning of the next chapter. These solutions will be checked by the faculty and will be returned to the Students with remarks and suggestions. Thus helping every Student to have a very strong command over fundamental concept knowledge very crucial for getting Top ranks."<<endl;
 cout<<"Class Learning Improvement Program (CLIP): Icing on the cake of every class will be done through Class Learning Improvement Program for those who have completed all assignments to further help them get a higher Rank in Competitive Exams."<<endl;
 cout<<"Success Potential Index (SPI): We are the only institute in India having the capability to predict Success Potential Index (SPI) of a student. We constantly encourage our students to emulate their Success Potential Index (SPI)."<<endl;
-cout<<"Students also gain important exam practice through quizzes, phase tests, & mock tests (conducted in a simulated environment giving the students a ‘feel’ of the real exam) that can help them improve their examination temperament a necessary element for success in any competitive exam"<<endl;
+cout<<"Students also gain important exam practice through quizzes, phase tests, & mock tests (conducted in a simulated environment giving the students a â€˜feelâ€™ of the real exam) that can help them improve their examination temperament a necessary element for success in any competitive exam"<<endl;
 cout<<"Regular feedback & Test Analysis Sessions."<<endl;
 cout<<"Dedicated academic operations team provides feedback at any point of time apart from scheduled parent teacher meetings."<<endl;
 cout<<"DURATION :"<<endl;
@@ -941,7 +942,7 @@ cout<<"Common Phase Tests across the country."<<endl;
 cout<<"Chapter Practice Problems (CPP): On each chapter Students will be given Chapter Practice Problems which they have to attempt and submit before the beginning of the next chapter. These solutions will be checked by the faculty and will be returned to the Students with remarks and suggestions. Thus helping every Student to have a very strong command over fundamental concept knowledge very crucial for getting Top ranks."<<endl;
 cout<<"Class Learning Improvement Program (CLIP): Icing on the cake of every class will be done through Class Learning Improvement Program for those who have completed all assignments to further help them get a higher Rank in Competitive Exams."<<endl;
 cout<<"Success Potential Index (SPI): We are the only institute in India having the capability to predict Success Potential Index (SPI) of a student. We constantly encourage our students to emulate their Success Potential Index (SPI)."<<endl;
-cout<<"Students also gain important exam practice through quizzes, phase tests, & mock tests (conducted in a simulated environment giving the students a ‘feel’ of the real exam) that can help them improve their examination temperament a necessary element for success in any competitive exam"<<endl;
+cout<<"Students also gain important exam practice through quizzes, phase tests, & mock tests (conducted in a simulated environment giving the students a â€˜feelâ€™ of the real exam) that can help them improve their examination temperament a necessary element for success in any competitive exam"<<endl;
 cout<<"Regular feedback & Test Analysis Sessions."<<endl;
 cout<<"Dedicated academic operations team provides feedback at any point of time apart from scheduled parent teacher meetings."<<endl;
 cout<<"DURATION :"<<endl;
@@ -961,7 +962,7 @@ cout<<"Common Phase Tests across the country."<<endl;
 cout<<"Chapter Practice Problems (CPP): On each chapter Students will be given Chapter Practice Problems which they have to attempt and submit before the beginning of the next chapter. These solutions will be checked by the faculty and will be returned to the Students with remarks and suggestions. Thus helping every Student to have a very strong command over fundamental concept knowledge very crucial for getting Top ranks."<<endl;
 cout<<"Class Learning Improvement Program (CLIP): Icing on the cake of every class will be done through Class Learning Improvement Program for those who have completed all assignments to further help them get a higher Rank in Competitive Exams."<<endl;
 cout<<"Success Potential Index (SPI): We are the only institute in India having the capability to predict Success Potential Index (SPI) of a student. We constantly encourage our students to emulate their Success Potential Index (SPI)."<<endl;
-cout<<"Students also gain important exam practice through quizzes, phase tests, & mock tests (conducted in a simulated environment giving the students a ‘feel’ of the real exam) that can help them improve their examination temperament a necessary element for success in any competitive exam"<<endl;
+cout<<"Students also gain important exam practice through quizzes, phase tests, & mock tests (conducted in a simulated environment giving the students a â€˜feelâ€™ of the real exam) that can help them improve their examination temperament a necessary element for success in any competitive exam"<<endl;
 cout<<"Regular feedback & Test Analysis Sessions."<<endl;
 cout<<"Dedicated academic operations team provides feedback at any point of time apart from scheduled parent teacher meetings."<<endl;
 cout<<"DURATION :"<<endl;
@@ -979,7 +980,7 @@ cout<<"Common Phase Tests across the country."<<endl;
 cout<<"Chapter Practice Problems (CPP): On each chapter Students will be given Chapter Practice Problems which they have to attempt and submit before the beginning of the next chapter. These solutions will be checked by the faculty and will be returned to the Students with remarks and suggestions. Thus helping every Student to have a very strong command over fundamental concept knowledge very crucial for getting Top ranks."<<endl;
 cout<<"Class Learning Improvement Program (CLIP): Icing on the cake of every class will be done through Class Learning Improvement Program for those who have completed all assignments to further help them get a higher Rank in Competitive Exams."<<endl;
 cout<<"Success Potential Index (SPI): We are the only institute in India having the capability to predict Success Potential Index (SPI) of a student. We constantly encourage our students to emulate their Success Potential Index (SPI)."<<endl;
-cout<<"Students also gain important exam practice through quizzes, phase tests, & mock tests (conducted in a simulated environment giving the students a ‘feel’ of the real exam) that can help them improve their examination temperament a necessary element for success in any competitive exam"<<endl;
+cout<<"Students also gain important exam practice through quizzes, phase tests, & mock tests (conducted in a simulated environment giving the students a â€˜feelâ€™ of the real exam) that can help them improve their examination temperament a necessary element for success in any competitive exam"<<endl;
 cout<<"Regular feedback & Test Analysis Sessions."<<endl;
 cout<<"Dedicated academic operations team provides feedback at any point of time apart from scheduled parent teacher meetings."<<endl;
 cout<<"DURATION :"<<endl;
@@ -998,7 +999,7 @@ cout<<"Common Phase Tests across the country."<<endl;
 cout<<"Chapter Practice Problems (CPP): On each chapter Students will be given Chapter Practice Problems which they have to attempt and submit before the beginning of the next chapter. These solutions will be checked by the faculty and will be returned to the Students with remarks and suggestions. Thus helping every Student to have a very strong command over fundamental concept knowledge very crucial for getting Top ranks."<<endl;
 cout<<"Class Learning Improvement Program (CLIP): Icing on the cake of every class will be done through Class Learning Improvement Program for those who have completed all assignments to further help them get a higher Rank in Competitive Exams."<<endl;
 cout<<"Success Potential Index (SPI): We are the only institute in India having the capability to predict Success Potential Index (SPI) of a student. We constantly encourage our students to emulate their Success Potential Index (SPI)."<<endl;
-cout<<"Students also gain important exam practice through quizzes, phase tests, & mock tests (conducted in a simulated environment giving the students a ‘feel’ of the real exam) that can help them improve their examination temperament a necessary element for success in any competitive exam"<<endl;
+cout<<"Students also gain important exam practice through quizzes, phase tests, & mock tests (conducted in a simulated environment giving the students a â€˜feelâ€™ of the real exam) that can help them improve their examination temperament a necessary element for success in any competitive exam"<<endl;
 cout<<"Regular feedback & Test Analysis Sessions."<<endl;
 cout<<"Dedicated academic operations team provides feedback at any point of time apart from scheduled parent teacher meetings."<<endl;
 cout<<"DURATION :"<<endl;
@@ -1017,7 +1018,7 @@ cout<<"Common Phase Tests across the country."<<endl;
 cout<<"Chapter Practice Problems (CPP): On each chapter Students will be given Chapter Practice Problems which they have to attempt and submit before the beginning of the next chapter. These solutions will be checked by the faculty and will be returned to the Students with remarks and suggestions. Thus helping every Student to have a very strong command over fundamental concept knowledge very crucial for getting Top ranks."<<endl;
 cout<<"Class Learning Improvement Program (CLIP): Icing on the cake of every class will be done through Class Learning Improvement Program for those who have completed all assignments to further help them get a higher Rank in Competitive Exams."<<endl;
 cout<<"Success Potential Index (SPI): We are the only institute in India having the capability to predict Success Potential Index (SPI) of a student. We constantly encourage our students to emulate their Success Potential Index (SPI)."<<endl;
-cout<<"Students also gain important exam practice through quizzes, phase tests, & mock tests (conducted in a simulated environment giving the students a ‘feel’ of the real exam) that can help them improve their examination temperament a necessary element for success in any competitive exam"<<endl;
+cout<<"Students also gain important exam practice through quizzes, phase tests, & mock tests (conducted in a simulated environment giving the students a â€˜feelâ€™ of the real exam) that can help them improve their examination temperament a necessary element for success in any competitive exam"<<endl;
 cout<<"Regular feedback & Test Analysis Sessions."<<endl;
 cout<<"Dedicated academic operations team provides feedback at any point of time apart from scheduled parent teacher meetings."<<endl;
 cout<<"DURATION :"<<endl;
@@ -1035,7 +1036,7 @@ cout<<"Common Phase Tests across the country."<<endl;
 cout<<"Chapter Practice Problems (CPP): On each chapter Students will be given Chapter Practice Problems which they have to attempt and submit before the beginning of the next chapter. These solutions will be checked by the faculty and will be returned to the Students with remarks and suggestions. Thus helping every Student to have a very strong command over fundamental concept knowledge very crucial for getting Top ranks."<<endl;
 cout<<"Class Learning Improvement Program (CLIP): Icing on the cake of every class will be done through Class Learning Improvement Program for those who have completed all assignments to further help them get a higher Rank in Competitive Exams."<<endl;
 cout<<"Success Potential Index (SPI): We are the only institute in India having the capability to predict Success Potential Index (SPI) of a student. We constantly encourage our students to emulate their Success Potential Index (SPI)."<<endl;
-cout<<"Students also gain important exam practice through quizzes, phase tests, & mock tests (conducted in a simulated environment giving the students a ‘feel’ of the real exam) that can help them improve their examination temperament a necessary element for success in any competitive exam"<<endl;
+cout<<"Students also gain important exam practice through quizzes, phase tests, & mock tests (conducted in a simulated environment giving the students a â€˜feelâ€™ of the real exam) that can help them improve their examination temperament a necessary element for success in any competitive exam"<<endl;
 cout<<"Regular feedback & Test Analysis Sessions."<<endl;
 cout<<"Dedicated academic operations team provides feedback at any point of time apart from scheduled parent teacher meetings."<<endl;
 cout<<"DURATION :"<<endl;
@@ -1397,7 +1398,7 @@ int main()
                     break;
                     goto label1;
             case 2: S.Tourism_module();
-			        break; 
+	            break; 
                     goto label1;
             case 3: S.Education_module(); 
                     break;

@@ -1,0 +1,2 @@
+# Smart-City
+Smart city project has been built using OOP concepts in C++ language.It consists of four modules, namely: 1. Housing 2.Tourism 3.Education 4.Job seeker This project addresses Kota city in particular.Anyone visiting Kota for the purpose of studies or jobs and can be used for the guidance around this city such as hotels/hostels/PG to stay, places to visit, jobs to seek as teacher/doctor and courses to opt for the students.
